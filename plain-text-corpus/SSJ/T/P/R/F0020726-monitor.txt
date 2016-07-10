@@ -1,0 +1,12 @@
+ 
+Sicer  pa  Diamond  izdeluje  tudi  modeme ,  ki  temeljijo  na  Rockwellovem  čipu .  V  zadnjem  času  so  se  v  Evropi  in  ZDA  prebili  kar  na  drugo  mesto  po  prodaji  ( za  US  Robotics ) .  V  Sloveniji  Diamondovih  modemov  uradno  ne  prodajajo ,  ker  niso  atestirani  ( kar  nekaj  slovenskih  podjetij  pa  prodaja  Diamondove  modeme ,  ki  so  neposredno  uvoženi  iz  ZDA ) .  No ,  naslednje  leto  načrtujejo  prodor  tudi  k  nam .  “ Modemi ”  ISDN ,  za  katere  je  Diamond  v  ZDA  požel  kar  nekaj  laskavih  ocen  ( imenujejo  se  Netcommander  128 ) ,  pa  v  Evropi  očitno  ne  bodo  zaživeli .  Prodajajo  jih  sicer  še ,  a  odkar  je  nemški  Telekom  ukinil  subvencijo  za  naprave  ISDN ,  vse  manj . 
+
+Epson  PhotoPC  500  je  pri  temeljitem  ogledu  vzbudil  občutek ,  da  smo  vse  skupaj  že  videli .  Po  natančni  primerjavi  se  je  izkazalo ,  da  je  skoraj  enak  Agfinemu  ePhotu  307 ,  zaslon  iz  tekočih  kristalov ,  na  katerem  so  prikazani  podatki  o  nastavitvah  in  zasedenosti  pomnilnika  ter  izčrpanosti  baterije ,  pa  je  povsem  enak .  Prav  tako  so  enaki  tudi  štirje  neoznačeni  gumbi ,  ki  ga  obkrožajo  in  so  namenjeni  spreminjanju  nastavitev  bliskavice ,  kakovosti  posnetkov  in  njihovem  brisanju .  Do  pičice  enak  je  tudi  zaporedni  priključek ,  pa  tudi  zaklep ,  ki  ga  pokriva ,  na  levem  boku  aparata .
+
+Računalniški  DVD
+
+Epson  je  predstavil  skener  za  skeniranje  filmov  in  diapozitivov .
+
+Okolje :  Okna  95  ali  NT  4.0 ,  procesor ,  na  katerem  navedeni  OS  delujejo ,  1  MB  prostora  na  disku ,  monitor  ločljivosti  VGA  z  ustrezno  grafično  kartico ,  miška .
+
+Izdeluje :  Teac .

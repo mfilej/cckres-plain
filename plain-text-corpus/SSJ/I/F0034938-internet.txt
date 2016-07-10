@@ -1,0 +1,4 @@
+ 
+Bodite  pozorni  na  obmejnih  območjih ,  kjer  je  lahko  prisoten  signal  tujih  operaterjev .  Neželenemu  prenosu  podatkov  v  tujih  omrežjih  in  s  tem  povečanim  stroškom  se  lahko  izognete  z  vklopom  storitve  Blokada  GPRS  tujina  .
+
+•  brezplačno  in  neomejeno  uporabo  brezžičnega  dostopa  do  interneta  prek  NeoWLAN-a  ,

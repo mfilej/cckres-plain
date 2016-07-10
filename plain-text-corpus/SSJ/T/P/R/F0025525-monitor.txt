@@ -1,0 +1,14 @@
+ 
+Jenoptik  JD - 4100z3
+
+Slika  8 :  Uporabimo  lahko  različne  posebne  učinke ,  video  pa  lahko  tudi  retuširamo .
+
+osw.write ( content ) ;
+
+Trajanje  delovanja :  2  h  29  min .
+
+Zaslon :  12,1 - palčni ,  aktivna  matrika ,  1024  ×  768  pik .
+
+http://www.intel.com
+
+Zahteve :  Izhod  VGA  ali  DVI  izhod  na  grafični  kartici .

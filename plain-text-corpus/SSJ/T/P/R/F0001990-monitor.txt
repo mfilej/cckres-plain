@@ -1,0 +1,10 @@
+ 
+Sonique  sonique.lycos.com
+
+Iz  rezultatov  preizkusa  hitro  ugotovimo ,  da  tiskanje  z  brizgalnimi  tiskalniki  nikakor  ni  poceni .  Stran  A4  navadnega  črnega  besedila ,  natisnjena  v  srednji  kakovosti ,  nas  bo  olajšala  vsaj  za  18  tolarjev ,  pri  nekaterih  tiskalnikih  pa  celo  za  75  tolarjev  ( ! ) .  Cena  barvne  strani  je  še  za  faktor  ( ali  več ! )  dražja ,  saj  bomo  za  barvno  stran  A4  ( testni  dokument  je  po  porabi  barvila  nekje  med  fotografijo  in  poslovnim  poročilom  z  barvnimi  grafikoni )  odšteli  med  57  in  246  tolarji .  Če  bomo  tiskali  pri  visoki  kakovosti ,  bo  cena  seveda  še  veliko  višja ,  treba  pa  bo  prišteti  še  ceno  posebnega  papirja .
+
+end ;
+
+Pisarna  za  iks
+
+Prednastavljeni  računi  ( preconfigured  accounts )  nastanejo  samodejno ,  ko  se  ustvari  zbirka  podatkov  prijav .  Ob  nastanku  dobijo  določena  pooblastila  in  pravice  do  dostopa ,  od  katerih  mnogih  ni  mogoče  spremeniti .  Pri  krajevnem  overitelju  prednastavljeni  računi  nastanejo  ob  namestitvi  operacijskega  sistema ,  domenski  prednastavljeni  računi  pa  skupaj  z  domenskim  overiteljem  takrat ,  ko  strežnik  določimo  za  domenski  nadzornik .  S  tem  nastane  tudi  nova  domena . 

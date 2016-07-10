@@ -1,0 +1,10 @@
+ 
+Najzmogljivejši  izmed  Allnetovih  usmerjevalnikov  je  ALL1298 ,  v  katerega  je  vgrajeno  kar  sedemkratno  omrežno  stikalo .  To  bo  zadostovalo  tudi  za  malo  večja  domača  omrežja  in  manjše  pisarne ,  podpira  pa  tudi  povezovanje  z  omrežji  HPNA ,  a  teh  pri  nas  skorajda  ni .  Pograjali  bi  vmesnik  za  nastavljanje  prek  brskalnika ,  saj  je  delno  v  nemščini ,  delno  v  angleščini .  Vmesnik  je  drugačen  kakor  pri  drugih  Allnetovih  izdelkih  na  preizkusu .  Požarni  zid  je  podobno  zmogljiv  kakor  pri  najšibkejših  modelih  izdelovalca ,  kar  pomeni ,  da  omogoča  obrambo  pred  napadi  DoS ,  ne  pa  tudi  selektivne  prepustnosti  paketkov .  Omenimo  še ,  da  gre  za  edini  Allnetov  usmerjevalnik  na  preizkusu ,  ki  ne  podpira  filtriranja  prometa  glede  na  vsebino  naslova  URL .
+
+HP  9065.jpg ;  Drugi  poizkus  podjetja  HP  pri  velikih  fotokopircih  Laserjet  9065
+
+Kot  smo  pri  sodobnih  Borlandovih  orodjih  že  vajeni ,  je  po  namestitvi  C #  Builder  treba  aktivirati ,  to  pa  zahteva  vnos  ključa  ter  prijavo  v  Borlandovo  centralo ,  bodisi  prek  spleta ,  kar  je  najhitreje ,  ali  telefonsko  oziroma  pisno .  Brez  aktivacije  bo  orodje  delovalo  le  sedem  dni .
+
+Nastavitve  se  skrivajo  v  orodju  Nadzorno  središče  KDE  ( Control  Center ) .  Pri  namizju  KDE  ga  najdemo  na  osnovnem  zagonskem  menuju ,  v  Gnomu  pa  je  nekoliko  bolj  skrito ,  v  skupini  Preferences .  Nastavitve  so  zaradi  preglednosti  razporejene  v  različne  skupine .  Ikone  do  pogonov ,  ki  sem  jih  pogrešal ,  sem ,  denimo ,  odkril  med  nastavitvami  Namizja  ( Desktop ) ,  v  podskupini  Obnašanje  ( Behavior ) .  Vklopiti  sem  moral  možnost  Prikaži  naprave  na  namizju  ( Display  devices  on  desktop )  in  izbrati  tiste ,  ki  sem  jih  želel  videti .  Izberemo  lahko  celo ,  ali  bi  ikone  pogonov  radi  videli  vedno  ali  samo  takrat ,  ko  so  priklopljeni .
+
+www.microsoft.com

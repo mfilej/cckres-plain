@@ -1,0 +1,14 @@
+ 
+Največja  hitrost  zapisovanja  na  DVD - R ,  DVD - RW :  2x ,  2x .
+
+Vrsta  pogona  in  vmesnik  priklopa :  Zunanji ,  USB  2.0  in  firewire .
+
+Na  sejmu  so  predstavili  tri  avtomobile ,  BMW  X5 ,  Cadillac  C75  in  Hummer  H2 ,  z  vgrajeno  Microsoftovo  napravo ,  imenovano  Tbox ,  ki  naj  bi  stala  100  dolarjev .  Napravo  povežemo  z  računalnikom  v  avtomobilu ,  da  omogoča  dodatne  storitve .  Obljubljajo ,  da  se  bo  Tbox  lahko  povezal  tudi  z  drugimi  napravami ,  predvsem  ročnimi  računalniki  in  mobilnimi  telefoni .  Med  partnerji  so  tudi  Citroen ,  Honda ,  DaimlerChrysler ,  Fiat ,  Toyota  in  Volvo .
+
+www.motorola.com
+
+# include  < SDL / SDL . h >
+
+p _ znakec  =  SDL _ LoadBMP ( " znakec.bmp " ) ;
+
+Bil  Gates  je  prepričan ,  da  lahko  nezaželeno  elektronsko  pošto  po  vsem  svetu  povsem  izkoreninimo  v  dveh  letih .  Svoje  predlog  je  razkril  kar  na  letnem  gospodarskem  forumu  v  Davosu ,  kjer  je  navedel  tri  akcijske  točke .  Prva  predvideva  izdelavo  boljših  orodij  in  filtrov  za  obrambo  pred  nezaželeno  pošto .  Druga  predvideva  uvedbo  mehanizmov ,  ki  bi  že  na  ravni  internetne  hrbtenice  upočasnili  prenos  sporočil ,  ocenjenih  kot  nezaželenih ,  s  čimer  bi  ta  dejavnost  postala  nepraktična .  Tretji  korak  pa  predvideva  plačilo  za  pošiljanje  sporočil ,  nekakšno  digitalno  » poštno  znamko « ,  ki  bi  jo  moral  poslati  pošiljatelj ,  toda  le ,  če  to  določi  prejemnik .  Seveda  bi  Microsoft  pri  tretjem  korak  imel  koristi ,  saj  se  aktivno  ukvarja  s  sistemom  elektronskih  mikroplačil ,  ki  so  lahko  podlaga  za  tako  kaznovanje  množičnih  pošiljateljev .

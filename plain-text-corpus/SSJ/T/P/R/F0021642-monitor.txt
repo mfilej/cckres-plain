@@ -1,0 +1,4 @@
+ 
+Primož  Gabrijelčič
+
+Rezultat  je  morda  nerazumljiv ,  vendar  dokončen  Syquest  je  nehal  izdelovati  270  MB  model  in  predstavil  novega  230  MB .  Medij  modela  EZFlyer  230  MB ,  kakor  se  uradno  imenuje ,  deluje  na  videz  popolnoma  enako ,  le  da  ima  malce  manjšo  zmogljivost  in  drugačen  profil ,  kar  mu  onemogoča ,  da  bi  ga  stlačili  v  stari  270  MB  pogon .  In ,  nasprotno  seveda ,  novega  230  MB  nosilca  ne  moremo  vstaviti  v  EZFlyer .

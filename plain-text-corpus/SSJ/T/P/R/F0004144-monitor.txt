@@ -1,0 +1,2 @@
+ 
+IBM  je  objavil ,  da  bo  z  vsemi  strežnikih  iz  družine  PC  Server  brezplačno  dobavil  tudi  enoprocesorski  strežnik  Lotus  Notes ,  različica  4.1 .  Hkrati  so  objavili  tudi  rezultate  prvih  meritev  hitrosti  delovanja  strežnika  Notes  s  posebnim  testnim  programom .  Najbrž  ne  preseneča ,  da  se  je  na  testu  najbolje  odrezal  strežnik  IBM  iz  družine  700 .  Strežniki  IBM  z  nameščenim  strežnikom  Notes  naj  bi  pomagali  pri  prodaji  računalnikov  kot  aplikacijskih  strežnikov  za  Internet .

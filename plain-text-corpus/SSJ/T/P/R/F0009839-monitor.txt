@@ -1,0 +1,8 @@
+ 
+V  svetu  vizualnih  razvojih  orodij  so  kontrolniki  tisto ,  kar  so  bile  nekdaj  dodatne  knjižnice ,  torej  moduli ,  s  katerimi  širimo  rabo  osnovnega  razvojnega  paketa .  Nekaj  najzanimivejših  smo  si  ogledali ,  naprodaj  pa  jih  je  še  mnogo  več .  Pokrivajo  skoraj  vse  mogoče  rešitve .
+
+58
+
+5.  Podlaga  na  namizju  je  sedaj  lahko  tudi  poljubna  slika .
+
+Ocena :  4 .

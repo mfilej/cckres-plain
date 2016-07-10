@@ -1,0 +1,12 @@
+ 
+Analiza  podatkov
+
+The  Rock  Guide
+
+Novi  diski  Qunatum
+
+Quantum  je  sredi  oktobra  predstavil  tri  nove  družine  diskov .  Družina  Bigfoot  CY  nadaljuje  Quantumovo  nenavadno  ponudbo  5,25 - palčnih  diskov  z  velikimi  zmogljivostmi  in  vmesnikom  Fast  ATA - 2 .  Novi  modeli  so  na  voljo  v  velikostih  2,1 ,  4,3  in  6,4  GB ,  ki  podpirajo  protokol  za  predvidevanje  napak  S. M. A. R. T ,  vrtijo  pa  se  s  hitrostjo  3600  vrt . / min .  Družina  Bigfoot  je  namenjena  širokim  množicam ,  cene  pa  se  gibljejo  od  225  do  400  dolarjev .  Tehnično  in  po  zmogljivostih  je  še  bolj  zanimiva  družina  diskov  Fireball  ST  z  diski  premera  3,5  palca .  Na  voljo  so  velikosti  1,6 ,  2,1 ,  3,2 ,  4,3  in  6,4  GB .  Diski  uporabljajo  tehnologijo  PRML ,  vrtijo  pa  se  s  hitrostjo  5400  vrt . / min .  Na  voljo  so  z  vmesniki  Ultra  SCSI  pa  tudi  z  novim  vmesnikom  Ultra  ATA .  Ta  uporablja  nov  protokol  Ultra  DMA / 33 ,  ki  sta  ga  skupaj  razvila  Quntum  in  Intel .  Ultra  ATA  dovoljuje  prenos  podatkov  s  hitrostmi  do  33  MB / s ,  s  povprečnim  dostopom  do  podatkov  okoli  10  ms  pa  bodo  diski  Fireball  ST  med  najhitrejšimi  na  trgu .  Omenjeni  modeli  stanejo  od  220  do  600  dolarjev . 
+
+HP  ScanJet  4p
+
+Tone  Baumgartner
