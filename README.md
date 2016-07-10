@@ -1,0 +1,55 @@
+# Plain-text ccKres
+
+Plain-text version of [ccKres] 1.0, the corpus of written Slovenian language.
+Includes a few examples of tools to extract useful information from [TEI] fies.
+
+The plain-text files can be found in the
+[`plain-text-corpus`][plain] directory, sorted as follows:
+
+    SSJ
+    ├── I             - internet
+    └── T             - tisk (print)
+        ├── D         - drugo (other)
+        ├── K         - knjižno (literary)
+        │   ├── L     - leposlovje (fiction)
+        │   └── S     - strokovno (non-fiction)
+        └── P         - periodično (periodicals)
+            ├── C     - časopis (newspapers)
+            └── R     - revija (magazines)
+
+Although the text files were produced using `teitomarkdown` (part of
+[TEIC/Stylesheets][teic]), the result is barely formatted into paragraphs. The
+text will therefore need substantial preprocessing for most uses.
+
+## Generating plain-text files
+
+This repository already contains [exctracted plain-text files][plain].
+
+This is the procedure that used to generate them in the first place:
+
+    $ rake kres:download[cckres]
+    $ rake kres:extract[cckres]
+    $ rake kres:sort[cckres,plain-text-corpus]
+
+The above tasks require the following programs to be available in your `PATH`:
+
+  * `curl`
+  * `unzip`
+  * `find`
+  * `ruby`
+
+Ruby dependencies must be installed as well (`gem install bundler` if needed):
+
+    $ gem install bundler
+    $ bundle install
+
+## License
+
+The code is licensed under the MIT license. The [ccKres] corpus is licensed
+under [CC BY-NC-SA 4.0][cc]
+
+[cckres]: http://eng.slovenscina.eu/korpusi/proste-zbirke
+[tei]: http://www.tei-c.org/Guidelines/P5/
+[teic]: https://github.com/TEIC/Stylesheets/tree/dev/bin
+[plain]: plain-text-corpus
+[cc]: https://creativecommons.org/licenses/by-nc-sa/4.0/
