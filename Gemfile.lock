@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    babosa (1.0.2)
+    mini_portile2 (2.1.0)
+    nokogiri (1.6.8)
+      mini_portile2 (~> 2.1.0)
+      pkg-config (~> 1.1.7)
+    pkg-config (1.1.7)
+    progress (3.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  babosa
+  nokogiri
+  progress
+
+BUNDLED WITH
+   1.12.5
