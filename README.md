@@ -28,6 +28,8 @@ together with their morphosyntactic annotations (see
 ## Examples
 
   * [Counting number of verbs in input text](examples/count_verbs.rb)
+  * [Finding words that can belong to multiple
+    categories](examples/multiple_categories.rb)
 
 ## Generating plain-text files
 
