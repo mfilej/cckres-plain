@@ -56,11 +56,12 @@ Ruby dependencies must be installed as well (`gem install bundler` if needed):
 
 ## License
 
-The code is licensed under the MIT license. The [ccKres] corpus is licensed
-under [CC BY-NC-SA 4.0][cc]
+The code is licensed under the [MIT] license. The [ccKres] corpus is licensed
+under [CC BY-NC-SA 4.0][cc].
 
 [cckres]: http://eng.slovenscina.eu/korpusi/proste-zbirke
 [tei]: http://www.tei-c.org/Guidelines/P5/
 [teic]: https://github.com/TEIC/Stylesheets/tree/dev/bin
 [plain]: plain-text-corpus
+[mit]: https://opensource.org/licenses/MIT
 [cc]: https://creativecommons.org/licenses/by-nc-sa/4.0/
