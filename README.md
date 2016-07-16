@@ -25,11 +25,15 @@ Additionally we have extracted a list of all words found in the corpus,
 together with their morphosyntactic annotations (see
 [morphosyntax_dict.txt](morphosyntax_dict.txt)).
 
+## Examples
+
+  * [Counting number of verbs in input text](examples/count_verbs.rb)
+
 ## Generating plain-text files
 
-This repository already contains [exctracted plain-text files][plain].
-
-This is the procedure that used to generate them in the first place:
+This repository already contains [exctracted plain-text files][plain]. If, for
+whatever reason, you want to regenerate them, this is how they were originally
+generated:
 
     $ rake kres:download[cckres]
     $ rake kres:extract[cckres]
