@@ -86,4 +86,32 @@ namespace :kres do
       end
     end
   end
+
+  desc "Parses TEI files in <dir> and prints pairs of <word> <msd_tag>." << <<-DESC
+
+  Extracts morphosyntactic specifications from TEI files found in <dir>. Prints
+  one word per line, together with its tag. For more information on tags, see:
+  http://nl.ijs.si/jos/msd/html-sl/msd.specs.html
+  DESC
+
+  task :msd, [:dir] do |_t, args|
+    abort "Please specify directory." unless args.dir
+
+    require "nokogiri"
+    Signal.trap("PIPE", "EXIT")
+    dir = File.expand_path(args.dir)
+
+    Pathname.glob(File.join(dir, "*.xml")).each do |file|
+      File.open(file) do |f|
+        doc = Nokogiri::XML(f)
+        doc.remove_namespaces!
+
+        doc.css("w").each do  |w|
+          pos = w.attr("msd")
+          word = w.text.downcase
+          puts "#{word} #{pos}"
+        end
+      end
+    end
+  end
 end

@@ -21,6 +21,10 @@ Although the text files were produced using `teitomarkdown` (part of
 [TEIC/Stylesheets][teic]), the result is barely formatted into paragraphs. The
 text will therefore need substantial preprocessing for most uses.
 
+Additionally we have extracted a list of all words found in the corpus,
+together with their morphosyntactic annotations (see
+[morphosyntax_dict.txt](morphosyntax_dict.txt)).
+
 ## Generating plain-text files
 
 This repository already contains [exctracted plain-text files][plain].
@@ -30,6 +34,13 @@ This is the procedure that used to generate them in the first place:
     $ rake kres:download[cckres]
     $ rake kres:extract[cckres]
     $ rake kres:sort[cckres,plain-text-corpus]
+
+To generate the morphosyntactic dictionary:
+
+    $ rake kres:msd[~/Downloads/cckresV1_0/xml] \
+      | sort \
+      | uniq \
+      > morphosyntax_dict.txt
 
 The above tasks require the following programs to be available in your `PATH`:
 
