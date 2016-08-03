@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # Usage: count_verbs.rb <dict> <input>
 #
-# Count verbs in input text.
+# Count main verbs in input text.
 #
 #   dict  : dictionary of words with morphosyntactic tags
 #   input : input file on which to perform the verb count
@@ -20,8 +20,8 @@ verbs = Set.new
 File.open(dict) do |f|
   f.each_line do |line|
     word, type = line.split(" ")
-    if type[0] == "G"
-      verbs.add(word)
+    if type[0, 2] == "Gg"
+      verbs.add(word.downcase)
     end
   end
 end
